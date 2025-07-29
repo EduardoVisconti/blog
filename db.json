@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "title": "Definitive Blog Guide",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Author Name",
+      "date": "Aug 2, 2020"
+    },
+    {
+      "id": 2,
+      "category": "Photography",
+      "title": "What are the best cameras in 2021?",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Author Name",
+      "date": "Aug 4, 2020"
+    },
+    {
+      "id": 3,
+      "category": "Cinema",
+      "title": "The 10 Movies With The Highest Box Office",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Author Name",
+      "date": "Aug 6, 2020"
+    }
+  ]
+}
